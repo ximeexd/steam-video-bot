@@ -1,2 +1,7 @@
 flask
 gunicorn
+edge-tts
+yt-dlp
+moviepy
+Pillow
+openai-whisper
