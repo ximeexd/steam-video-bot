@@ -2,6 +2,7 @@ flask
 gunicorn
 edge-tts
 yt-dlp
-moviepy
+moviepy==1.0.3
 Pillow
 openai-whisper
+ffmpeg-python
